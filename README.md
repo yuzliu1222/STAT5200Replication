@@ -10,7 +10,7 @@ The paper uses Botswana's 1996 education reform as an instrument for children's 
 
 ## Data
 
-Botswana 2001 and 2011 census samples from [IPUMS International](https://international.ipums.org). Data are not included in this repo.
+Botswana 2001 and 2011 census samples from [IPUMS International](https://international.ipums.org). Data are not included in this repo at this point.
 
 *Status: IPUMS account application is under review. This section will be updated once access is approved.*
 
@@ -18,7 +18,7 @@ Botswana 2001 and 2011 census samples from [IPUMS International](https://interna
 
 ```
 data/     # raw and processed data (not tracked)
-code/     # analysis scripts
+code/     # analysis scripts, mainly using R
 output/   # tables and figures
 ```
 
